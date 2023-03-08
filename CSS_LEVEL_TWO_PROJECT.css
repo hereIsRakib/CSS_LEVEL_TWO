@@ -1,0 +1,37 @@
+h3{
+  text-align: center;
+  font-family: 'Tilt Prism', cursive;
+}
+
+table{
+  margin: auto;
+}
+
+td{
+  background-color: black;
+  height:200px;
+  width:100px;
+  border: 5px solid white;
+}
+
+#first{
+  background-color: #DAD2D8;
+}
+
+#second{
+  background-color: #325FA2;
+}
+
+#third{
+
+  background-color: #143642;
+
+}
+
+#fourth{
+  background-color: #EC9A29;
+}
+
+#fifth{
+  background-color: #A8201A;
+}

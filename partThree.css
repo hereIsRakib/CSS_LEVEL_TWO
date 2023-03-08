@@ -1,0 +1,21 @@
+#top{
+
+  border: 4px solid blue;
+  width: 25%;
+  /* this % specify how much space it takes in the browser
+  when streching */
+  text-align: center;
+  /* this will allign the txt in centre but when stressing
+  it wont be in centre so we use margin */
+  margin: auto;
+
+}
+
+#bottom{
+
+  border: 4px solid red;
+  width: 50%;
+  padding: 200px;
+  text-align: center;
+
+}
